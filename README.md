@@ -1,2 +1,2 @@
 # dsxl-product-dev-project
-Tech product development project for Meet Fresh business growth
+Technical product development project for fueling the continuous business growth of Meet Fresh (a popular dessert franchise).
